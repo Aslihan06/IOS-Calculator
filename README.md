@@ -1,2 +1,3 @@
 [Click Here..!](https://aslihan06.github.io/IOS-Calculator/)
-![screen](https://user-images.githubusercontent.com/98950958/169719074-93fd3db4-d597-4994-8c11-ed84fb291266.png)
+https://user-images.githubusercontent.com/98950958/169720476-a59dec70-9c1e-4dd3-aeee-1f5f08b5dc1c.mp4
+
